@@ -3,8 +3,8 @@
 
 # 👋 Hey, I’m Arya Ramachandran
 
-🎓 **BTech Student | Creative Developer**  
-💻 Passionate about **web apps, logic, and design**  
+🎓 **BTech Student @ Christ University | Creative Developer**  
+💻 Passionate about **web apps, logic, design,and stories**  
 🚀 Building **small ideas into fun digital experiences**
 
 ---
@@ -13,7 +13,7 @@
 I’m a curious and creative developer who enjoys combining logic and design to craft engaging web experiences.  
 Currently pursuing my **BTech** at **Christ University, Bangalore**, and learning to blend storytelling, coding, and creativity into impactful digital products.
 
-Outside of projects, I love writing short stories, experimenting with JavaScript, and learning new technologies every week.
+Outside of projects, I love writing short stories, experimenting with code, and learning new technologies every week.
 
 ---
 
