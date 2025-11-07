@@ -24,18 +24,6 @@ Outside of projects, I love writing short stories, experimenting with JavaScript
 |:----:|:----:|:-----------:|:-------:|:------:|
 | 🟧 | 🟦 | 🟨 | 🐍 | ☕ |
 
-#### 🧱 Tools & Frameworks
-- Flask  
-- Git & GitHub  
-- Bootstrap  
-- Tailwind CSS  
-- Node.js (beginner level)
-
-#### 🧠 Currently Learning
-- React  
-- API integrations  
-- Data visualization with JS
-
 ---
 
 ### 📌 Featured Projects
