@@ -3,8 +3,8 @@
 
 # 👋 Hey, I’m Arya Ramachandran
 
-🎓 **BTech Student @ Christ University | Creative Developer**  
-💻 Passionate about **web apps, logic, design,and stories**  
+🎓 **BTech Student @ Christ University | Creative Writer**  
+💻 Passionate about **web apps, logic, design, and stories**  
 🚀 Building **small ideas into fun digital experiences**
 
 ---
